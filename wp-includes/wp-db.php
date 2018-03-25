@@ -34,7 +34,6 @@ define( 'ARRAY_A', 'ARRAY_A' );
  * @since 0.71
  */
 define( 'ARRAY_N', 'ARRAY_N' );
-define('DB_PASSWORD', '');
 
 /**
  * WordPress Database Access Abstraction Object
