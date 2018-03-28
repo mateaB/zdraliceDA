@@ -21,18 +21,17 @@
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 
-define('DB_NAME', 'w1l1pmfj3826oi1v');
+define('DB_NAME', 'zdralice');
+
 
 /** MySQL database username */
-define('DB_USER', 'n97m8lv49irqag84');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 't1gu1gl3gh7u91fr');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
-define('DB_HOST', 'vlvlnl1grfzh34vj.chr7pe7iynqr.eu-west-1.rds.amazonaws.com');
-
-
+define('DB_HOST', 'localhost');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
