@@ -32,16 +32,7 @@ define('DB_PASSWORD', 't1gu1gl3gh7u91fr');
 /** MySQL hostname */
 define('DB_HOST', 'vlvlnl1grfzh34vj.chr7pe7iynqr.eu-west-1.rds.amazonaws.com');
 
-define('DB_NAME', 'heroku_e40ac0094585bc5');
 
-/** MySQL database username */
-define('DB_USER', 'b66764e743acde');
-
-/** MySQL database password */
-define('DB_PASSWORD', 'ba054cfc');
-
-/** MySQL hostname */
-define('DB_HOST', 'eu-cdbr-west-02.cleardb.net');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
