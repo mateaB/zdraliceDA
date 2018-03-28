@@ -23,6 +23,7 @@
 
 define('DB_NAME', 'zdralice');
 
+
 /** MySQL database username */
 define('DB_USER', 'root');
 
@@ -31,8 +32,6 @@ define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
-
-
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
